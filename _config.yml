@@ -5,13 +5,13 @@ description:      'Welcome'
 url:              http://libin99nju.github.io
 author:
   name:           'Bin Li'
-  url:            https://twitter.com/anewguy
+  url:            https://twitter.com/libin99nju
 
 ## You don't need to modify below this line
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 github:
   repo:           https://github.com/poole/hyde
 
