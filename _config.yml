@@ -1,7 +1,7 @@
 # Personalize your website info here
 title:            Bin Li
-tagline:          'Bin'
-description:      'Welcome'
+tagline:
+description:      'Hello world!'
 url:              http://libin99nju.github.io
 author:           Bin
   name:           'Bin Li'
