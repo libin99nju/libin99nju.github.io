@@ -4,7 +4,7 @@ tagline:
 description:      'Hello world!'
 url:              http://libin99nju.github.io
 author:           Bin
-  name:           'Bin Li'
+  name:
   url:            https://twitter.com/libin99nju
 
 ## You don't need to modify below this line
